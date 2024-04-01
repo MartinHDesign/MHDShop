@@ -200,8 +200,8 @@ function updateCartView() {
         const img = document.createElement('img');
         img.src = item.image;
         img.alt = "Product Image";
-        img.style.width = "50px";
-        img.style.height = "50px";
+        img.style.width = "40px";
+        img.style.height = "40px";
         imageColumn.appendChild(img);
         cartItem.appendChild(imageColumn);
 
