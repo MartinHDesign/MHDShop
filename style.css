@@ -65,7 +65,8 @@ body aside {
   margin-bottom: 10px;
   color: black;
   padding: 10px;
-  padding-right: 50px;
+  padding-right: 40px;
+  margin-left: 5px;
 }
 
 .cart-item button {
@@ -86,7 +87,7 @@ body aside {
 
 #cartButtons button {
   flex-grow: 1;
-  height: 40px;
+  height: 60px;
   margin-right: 5px;
 }
 
